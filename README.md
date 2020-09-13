@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Available Scripts
+
+http://muneeb-netflix-clone.surge.sh
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
